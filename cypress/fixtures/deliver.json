@@ -1,0 +1,86 @@
+{
+	"signup": {
+		"name": "Gustavo Duran",
+            "cpf": "00000014141",
+            "email": "gustavo@gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "01311000",
+                "street": "Avenida Paulista",
+                "number": "509",
+                "details": "Conj 101",
+                "district": "Bela Vista",
+                "city_state": "São Paulo/SP"
+            },
+            "delivery_method":"Moto",
+            "cnh": "cnh.jpg"
+	},
+	
+	"signupBicicleta": {
+		"name": "Marcelo Tolde",
+            "cpf": "19000014141",
+            "email": "marcelo_tolde@gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "19470000",
+                "street": "",
+                "number": "235",
+                "details": "Casa",
+                "district": "",
+                "city_state": "Presidente Epitácio/SP"
+            },
+            "delivery_method":"Bike Elétrica",
+            "cnh": "cnh.jpg"
+	},
+	
+	"signupVanCarro": {
+		"name": "Luiz Duran",
+            "cpf": "12345614141",
+            "email": "luiz@gmail.com",
+            "whatsapp": "18999999999",
+            "address": {
+                "postalcode": "19470000",
+                "street": "",
+                "number": "509",
+                "details": "Casa",
+                "district": "",
+                "city_state": "Presidente Epitácio/SP"
+            },
+            "delivery_method":"Van/Carro",
+            "cnh": "cnh.jpg"
+	},
+	
+	"cpf_inv":{
+		"name": "Melisa Capotinho",
+            "cpf": "X0000014AbC",
+            "email": "mel_capotinho@gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "01311000",
+                "street": "Avenida Paulista",
+                "number": "509",
+                "details": "Conj 101",
+                "district": "Bela Vista",
+                "city_state": "São Paulo/SP"
+            },
+            "delivery_method":"Moto",
+            "cnh": "cnh.jpg"		
+	},
+	
+	"email_inv":{
+		"name": "Melisa Capotinho",
+            "cpf": "00000014654",
+            "email": "mel_capotinho-gmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "01311000",
+                "street": "Avenida Paulista",
+                "number": "509",
+                "details": "Conj 101",
+                "district": "Bela Vista",
+                "city_state": "São Paulo/SP"
+            },
+            "delivery_method":"Van/Carro",
+            "cnh": "cnh.jpg"		
+	}
+}
